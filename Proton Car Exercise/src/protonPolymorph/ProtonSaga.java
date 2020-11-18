@@ -10,7 +10,7 @@ public class ProtonSaga extends Proton{
 		this.model = "Proton Saga";
 	}
 	
-	public void setRadio(String newRadio) {
+	public void setRadio(String newRadio) { //setter n getters or encap
 		radio = newRadio;
 	}
 	
