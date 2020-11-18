@@ -58,18 +58,4 @@ public class ProtonSaga extends Proton{
 		V.display();
 		S.sing();
 	}
-	
-
-	//method overloading
-	void sum(int base, long standard)
-	{
-		System.out.println(base);
-	}
-	
-	/*void run()
-	{
-		System.out.println("Proton Saga is running safely");
-		super.run();
-	}*/
-	
 }
