@@ -15,7 +15,7 @@ public class MainProton {
 		//Proton Saga
 		PS.fuelSave();
 		PS.printProton();
-		PS.setRadio("Pioneer");
+		PS.setRadio("Pioneer"); //setter n getter encap
 		System.out.println("Type of key: " + PS.getKey());
 		System.out.println("Radio brand: " + PS.getRadio());
 		System.out.println("\n");

@@ -1,12 +1,12 @@
 package protonPolymorph;
 
 class Vehicle {
-	int maxSpeed = 180;
+	int maxSpeed = 180; //superkeyword
 	int lowSpeed = 80;
-	int limitSpeed = 130;
+	int limitSpeed = 130; 
 	
 	public void  sing() {
-		System.out.println("Vroom Vroom");
+		System.out.println("Vroom Vroom"); //polymorphism
 	}
 }
 
